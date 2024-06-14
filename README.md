@@ -6,5 +6,5 @@
 ->> To install the dependencies listed in requirements.txt, run the following command in your terminal:
 pip install -r requirements.txt
 
-Clone my repose or download the repose in zip format to get all these documents and code.
+->> Clone my repose or download the repose in zip format to get all these documents and code.
 
