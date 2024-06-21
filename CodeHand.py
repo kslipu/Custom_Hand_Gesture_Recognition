@@ -14,7 +14,7 @@ mp_drawing = mp.solutions.drawing_utils
 X = []
 y = []
 gesture_names = {}
-data_save_path = 'C:/Users/kshet/Desktop/Coding/Projects/GestureHand' #add a path in where the collected data and trained model will stored
+data_save_path = 'C:/Users/kshet/......./GestureHand' #add a path in where the collected data and trained model will stored
 
 # Ensure the data save directory exists
 if not os.path.exists(data_save_path):
